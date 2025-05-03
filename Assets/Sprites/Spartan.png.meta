@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: aa0074c9e69a4ce4d8d146ea52132f50
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spartan_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c464eea9fb390d446bd4ae92751da123
+      internalID: 5263018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133e6974cd428f46b951ef4c43c825f
+      internalID: 1111922502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afc64698bc7254c8ced51802421893
+      internalID: 1338683275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df22ac10be0a44eade2185ca789846
+      internalID: 2144869944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370f04fdebadc348b9fe23612471898
+      internalID: -1676885114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34c2dfb8d25704789559ae3b97426f
+      internalID: 2140306197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311eb4b931648f40a75bc51955ac1e0
+      internalID: -753305915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_61
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b612b387d74e498de6a26c862163d
+      internalID: -335133309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b873f63d5a7e4cb3e12d71ef98f5b
+      internalID: -773885189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3491bddf657ea24593d8c9d3885055a
+      internalID: -1145755229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16d519915d13246bd68df90f9b76ae
+      internalID: 1890185370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7f9aa8e50535145bf96c3e39f00d29
+      internalID: -152696558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4fef2311c96644982683d6447c521f
+      internalID: 1106477500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_94
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e408766272784f853aff7c27bfb32
+      internalID: 1405793925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_95
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76e702e6b4b1647a9f8ed7803eb6ba
+      internalID: 1828376750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_96
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae133f55b2096747a6b1d6a456b8370
+      internalID: 1910609096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan_97
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019811a932d5d6345b950ecbefb911c2
+      internalID: -1302352124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spartan_0: 124372994
+      Spartan_1: -800624318
+      Spartan_10: -2040101561
+      Spartan_100: -1412061804
+      Spartan_101: 1635013871
+      Spartan_102: 1118040708
+      Spartan_103: -1909932392
+      Spartan_104: 1542137400
+      Spartan_105: -1368887864
+      Spartan_106: -1142097488
+      Spartan_107: 267721837
+      Spartan_108: 335460018
+      Spartan_109: 1976222302
+      Spartan_11: -2000081326
+      Spartan_110: 904221900
+      Spartan_111: 1283413648
+      Spartan_112: 1298053468
+      Spartan_113: 137694302
+      Spartan_114: 2037298227
+      Spartan_115: 1087666969
+      Spartan_116: -826444136
+      Spartan_117: 570522931
+      Spartan_118: 1033695643
+      Spartan_119: -333316256
+      Spartan_12: -279925346
+      Spartan_120: 1069272417
+      Spartan_121: 1933184788
+      Spartan_122: 627879241
+      Spartan_123: -1601387972
+      Spartan_124: 873430210
+      Spartan_125: 1893113747
+      Spartan_126: -649076464
+      Spartan_127: 85804725
+      Spartan_128: 1527287371
+      Spartan_129: 308970109
+      Spartan_13: -1357903669
+      Spartan_130: 2039557483
+      Spartan_131: 1518886215
+      Spartan_132: -1238033164
+      Spartan_133: -605291686
+      Spartan_134: 1157702214
+      Spartan_135: 501559353
+      Spartan_136: 1926145115
+      Spartan_137: -1522252321
+      Spartan_138: -1087160134
+      Spartan_139: 1067579992
+      Spartan_14: 1562778202
+      Spartan_140: 146854472
+      Spartan_141: 640135812
+      Spartan_142: 44532552
+      Spartan_143: 205955016
+      Spartan_144: -667260642
+      Spartan_145: 1737207986
+      Spartan_146: 672720267
+      Spartan_147: -317050723
+      Spartan_148: -742217117
+      Spartan_149: -2033736309
+      Spartan_15: -751267911
+      Spartan_150: -497070017
+      Spartan_151: -2104297668
+      Spartan_152: -867628871
+      Spartan_153: -1172722135
+      Spartan_154: -232247143
+      Spartan_155: 588610016
+      Spartan_156: 584882581
+      Spartan_157: 1924304436
+      Spartan_158: -486055783
+      Spartan_159: 12093361
+      Spartan_16: 923690392
+      Spartan_160: 118009954
+      Spartan_161: -1828413149
+      Spartan_162: 558588738
+      Spartan_163: -2048618948
+      Spartan_164: 187323969
+      Spartan_165: 778468614
+      Spartan_166: -362167209
+      Spartan_167: -1394890643
+      Spartan_168: 669877244
+      Spartan_169: -422527608
+      Spartan_17: -221290387
+      Spartan_170: 664632364
+      Spartan_171: -891541747
+      Spartan_172: -1271172251
+      Spartan_173: 997603838
+      Spartan_174: 1194875926
+      Spartan_175: -988891910
+      Spartan_176: 896690873
+      Spartan_177: -1650948480
+      Spartan_178: -1754754268
+      Spartan_179: -1629004661
+      Spartan_18: -590886959
+      Spartan_19: -1347021550
+      Spartan_2: -575884211
+      Spartan_20: 2024524382
+      Spartan_21: 1393611734
+      Spartan_22: 1999230873
+      Spartan_23: 1044189409
+      Spartan_24: 1123954530
+      Spartan_25: -1608260733
+      Spartan_26: -241896059
+      Spartan_27: -1356939633
+      Spartan_28: 1161335333
+      Spartan_29: -1479847993
+      Spartan_3: -556869982
+      Spartan_30: 2021101505
+      Spartan_31: -1966576983
+      Spartan_32: -1635568490
+      Spartan_33: -50431831
+      Spartan_34: -717642163
+      Spartan_35: -56513937
+      Spartan_36: 1974042073
+      Spartan_37: 183949339
+      Spartan_38: -1228800383
+      Spartan_39: 2063595740
+      Spartan_4: -1954515431
+      Spartan_40: -1715093337
+      Spartan_41: 608961757
+      Spartan_42: 1125812405
+      Spartan_43: 1211027629
+      Spartan_44: -1291851741
+      Spartan_45: 2123657073
+      Spartan_46: -83935139
+      Spartan_47: 305331109
+      Spartan_48: -980845644
+      Spartan_49: 234654755
+      Spartan_5: 2032620628
+      Spartan_50: -61336600
+      Spartan_51: -1707448033
+      Spartan_52: 2129739489
+      Spartan_53: -1387276412
+      Spartan_54: 5263018
+      Spartan_55: 1111922502
+      Spartan_56: 1338683275
+      Spartan_57: 2144869944
+      Spartan_58: -1676885114
+      Spartan_59: 2140306197
+      Spartan_6: 936610678
+      Spartan_60: -753305915
+      Spartan_61: -335133309
+      Spartan_62: 1929634757
+      Spartan_63: -1537551185
+      Spartan_64: 1467524864
+      Spartan_65: 511633373
+      Spartan_66: 1027391192
+      Spartan_67: -1669724294
+      Spartan_68: -1337021476
+      Spartan_69: -436124422
+      Spartan_7: -1567474043
+      Spartan_70: -92793666
+      Spartan_71: -752415694
+      Spartan_72: -37759558
+      Spartan_73: 75913886
+      Spartan_74: 1001398749
+      Spartan_75: 1617048384
+      Spartan_76: -1916572220
+      Spartan_77: -17340065
+      Spartan_78: -584211866
+      Spartan_79: 1087702547
+      Spartan_8: 257724280
+      Spartan_80: 753061222
+      Spartan_81: -1687846559
+      Spartan_82: -90627486
+      Spartan_83: 798500575
+      Spartan_84: 657280017
+      Spartan_85: 1586855579
+      Spartan_86: -2134649824
+      Spartan_87: 251503583
+      Spartan_88: -1791235148
+      Spartan_89: -773885189
+      Spartan_9: 736430368
+      Spartan_90: -1145755229
+      Spartan_91: 1890185370
+      Spartan_92: -152696558
+      Spartan_93: 1106477500
+      Spartan_94: 1405793925
+      Spartan_95: 1828376750
+      Spartan_96: 1910609096
+      Spartan_97: -1302352124
+      Spartan_98: -1014153457
+      Spartan_99: -696004133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
